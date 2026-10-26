@@ -240,6 +240,20 @@ a:active{
 
 }
 
+   /* Copyright footer */
+.copyright {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 16px 12px 20px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 12px;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
+}
+
 }
 
 /* ==========================================
@@ -274,20 +288,6 @@ h1{
 
     font-size:30px;
 
-}
-
-   /* Copyright footer */
-.copyright {
-    position: relative;
-    z-index: 2;
-    width: 100%;
-    box-sizing: border-box;
-    padding: 16px 12px 20px;
-    text-align: center;
-    color: rgba(255, 255, 255, 0.75);
-    font-size: 12px;
-    line-height: 1.5;
-    font-family: Arial, sans-serif;
 }
 
 }
